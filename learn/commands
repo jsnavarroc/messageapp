@@ -1,0 +1,4 @@
+nest generate controller nameController / nest g co nameController --> crea el controlador
+nest generate class menssages/dto/create-menssage-dto / nest g c message/dto/create-message-dto --> crear el objeto 
+nest generate service nameServices /nest g s nameServices  --> providers o services 
+yarn add @nestjs/typeorm typeorm pg pg-hstore --> conect with postgres
